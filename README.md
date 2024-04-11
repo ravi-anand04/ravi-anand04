@@ -7,7 +7,7 @@ I'm a passionate **[  Full Stack Developer  ]** with experience in **[React.js, 
 - 🌱 Currently learning: **[ Next.js, TypeScript, Webhooks, Next Server Components ]**
 - 🔭 Working on: **[ Blogging website (Next.js) ]**
 - 🌍 Languages: **[ Java, JavaScript, TypeScript ]**
-- 📫 How to reach me: **[ ravianand291@gmail.com | https://www.linkedin.com/in/ravi-anand-a03173130/ ]**
+- 📫 How to reach me: **[ ravianand291@gmail.com ]**
 - ⚡ Fun fact: **[ I love Esports ]**
 
 ## My Skills 🧠
