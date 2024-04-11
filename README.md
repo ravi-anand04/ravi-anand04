@@ -18,17 +18,16 @@ I'm a passionate **[  Full Stack Developer  ]** with experience in **[React.js, 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Beyoung Store](https://beyoung-store-clone.netlify.app/)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Dream Canvas](https://dream-canvas-psi.vercel.app/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
@@ -36,8 +35,8 @@ I'm a passionate **[  Full Stack Developer  ]** with experience in **[React.js, 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[ Personal Website / Blog ]**( https://ravi-anand04.netlify.app/ )
+- **[ LinkedIn ]**( https://www.linkedin.com/in/ravi-anand-a03173130/ )
+- **[ Twitter ]**( https://twitter.com/RaviAnand14 )
 
 
