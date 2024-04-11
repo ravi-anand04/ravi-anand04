@@ -1,7 +1,5 @@
 # Hi there, I'm Ravi Anand! 👋
 
-<img src="https://github.com/ravi-anand04/ravi-anand04/assets/135325298/fc867d2a-8065-49a1-a874-00d2ac6be0cd/" width="300" height="300" />
-
 ## About Me 🚀
 
 I'm a passionate **[  Full Stack Developer  ]** with experience in **[React.js, Next.js, Redux, Node.js, Express.js, JavaScript, TypeScript, Tailwind, and Bootstrap]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
