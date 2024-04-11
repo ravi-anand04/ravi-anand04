@@ -1,6 +1,6 @@
 # Hi there, I'm Ravi Anand! 👋
 
-![Banner Image](https://github.com/ravi-anand04/ravi-anand04/assets/135325298/fc867d2a-8065-49a1-a874-00d2ac6be0cd)
+<img src="https://github.com/ravi-anand04/ravi-anand04/assets/135325298/fc867d2a-8065-49a1-a874-00d2ac6be0cd/" width="500" height="500" />
 
 ## About Me 🚀
 
